@@ -1,3 +1,5 @@
+const SUPABASE_URL = 'https://mygeaminwardjmlyeymd.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_1yAd3q6mZPR3LCA8u9RV-Q_63hkk8eI';
 const authSection = document.getElementById('auth-section');
 const juegosSection = document.getElementById('juegos-section');
 const juegosVivoSection = document.getElementById('juegos-vivo-section');
