@@ -1,5 +1,5 @@
-const SUPABASE_URL = 'https://wgqqbahoalozgfukioza.supabase.co';
-const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndncXFiYWhvYWxvemdmdWtpb3phIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQyNTA3OTYsImV4cCI6MjA5OTgyNjc5Nn0.v_kpYceS8ceIUBNaLLHjfyBeFA2Y3lDRy7Yn6cb5Uz8';
+const SUPABASE_URL = 'https://mygeaminwardjmlyeymd.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_1yAd3q6mZPR3LCA8u9RV-Q_63hkk8eI';
 const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 function formatMoney(n) {
     const num = Number(n);
